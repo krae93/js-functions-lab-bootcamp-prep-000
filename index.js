@@ -1,8 +1,10 @@
 function happyHolidays() {
   return "Happy holidays!"
   console.log("Happy holidays!")
+} 
+function happyHolidaysTo("#name") {
+  return  
+  
 }
-function happyHolidays(happyHolidays) {
-  if (happyHolidays === "Happy holidays, ${Kelly}!")
-  return "Happy holidays, Kelly!"
-}
+
+document.nameSelection = "Kelly"
