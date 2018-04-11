@@ -6,16 +6,3 @@ function happyHolidaysTo() {
   return "Happy holidays, you!"
   console.log("Happy holidays, you!")
 }
-
-function holiday() {
-  return "Independence Day"
-  console.log("Independence Day")
-}
-function name() {
-  return "you"
-  console.log("you")
-}
-function happyHolidayTo(holiday(), name()) {
-  return "Happy Independence Day, You."
-
-}
