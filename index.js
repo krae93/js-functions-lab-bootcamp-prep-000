@@ -5,7 +5,7 @@ function happyHolidays() {
 function happyHolidaysTo() {
   return "Happy holidays, you!"
   console.log("Happy holidays, you!")
- if (happyHolidaysTo() === holiday(), name)
+ if (happyHolidaysTo() === holiday(), name())
   return "Happy Independence Day, you!"
 }
 
