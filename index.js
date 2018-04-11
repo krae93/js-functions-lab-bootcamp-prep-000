@@ -17,5 +17,5 @@ function name() {
 }
 function happyHolidayTo(holiday(), name()) {
   return "Happy Independence Day, You."
-  
+
 }
