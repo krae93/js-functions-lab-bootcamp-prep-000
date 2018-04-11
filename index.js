@@ -11,5 +11,5 @@ function happyHolidaysTo() {
 
 function holiday() {
   return "Independence Day"
-  
+  console.log("Independence Day")
 }
