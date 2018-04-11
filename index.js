@@ -13,3 +13,7 @@ function holiday() {
   return "Independence Day"
   console.log("Independence Day")
 }
+function name() {
+  return "you"
+  console.log("you")
+}
