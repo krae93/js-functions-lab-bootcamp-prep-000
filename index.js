@@ -1,10 +1,10 @@
 function happyHolidays() {
   return "Happy holidays!"
   console.log("Happy holidays!")
-} 
+}
 function happyHolidaysTo("#name") {
-  return  
-  
+  return
+
 }
 
-document.nameSelection = "Kelly"
+document.querySelector('#name')
